@@ -63,5 +63,7 @@ body{
   border-image: linear-gradient(blue, cyan) 30;
 
 }
-
+footer p{
+  text-align: center;
+}
 
